@@ -1,0 +1,7 @@
+airflow===2.2.3
+datetime
+pandas
+kaggle
+db-sqlite3
+sqlite-database
+pysqlite3
